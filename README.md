@@ -10,12 +10,9 @@
 
 ### Использование Docker
 
-1. Создайте Docker образ:
-   docker build -t neural-style-transfer .
-2. Запустите Docker контейнер:
-   docker run -p 8501:8501 neural-style-transfer
-3. Откройте приложение в браузере по адресу:
-   http://localhost:8501
+1. ```docker build -t neural-style-transfer .```
+2. docker run -p 8501:8501 neural-style-transfer
+3. http://localhost:8501
 
 ### Локальная установка
 
