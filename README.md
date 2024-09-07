@@ -102,7 +102,7 @@
 
 ### Локальная установка
 
-1. ```git clone https://github.com/yourusername/NeuralStyleTransfer.git```
+1. ```git clone https://github.com/ozyobr/NeuralStyleTransfer.git```
 2. ```cd NeuralStyleTransfer```
 3. ```python -m venv .venv```
    ```source .venv/bin/activate  # Для Windows: .venv\Scripts\activate```
